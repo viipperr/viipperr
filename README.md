@@ -1,8 +1,6 @@
 <div align="center">
 
-# vipper
-
-**Reverse Engineering · Windows Internals · Forensic Analysis**
+<img src="banner.svg" alt="vipper — reverse engineering · windows internals · forensic analysis" width="100%" />
 
 <a href="https://discord.com/users/711838932207140925"><img src="https://img.shields.io/badge/Discord-viipper.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://discord.gg/v8rZRbHhWE"><img src="https://img.shields.io/badge/Community-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
