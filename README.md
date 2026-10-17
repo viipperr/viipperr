@@ -4,7 +4,7 @@
 
 <a href="https://discord.com/users/711838932207140925"><img src="https://img.shields.io/badge/Discord-viipper.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://discord.gg/v8rZRbHhWE"><img src="https://img.shields.io/badge/Community-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
-<img src="https://komarev.com/ghpvc/?username=viipperr&style=for-the-badge&color=161b22&label=Profile+views" alt="Profile views" />
+<img src="https://hits.sh/github.com/viipperr.svg?style=for-the-badge&label=Profile%20views&color=e5484d&labelColor=555555" alt="Profile views" />
 
 </div>
 
